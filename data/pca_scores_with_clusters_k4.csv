@@ -1,0 +1,451 @@
+﻿country,year,region,income_group,pc1,pc2,cluster
+Argentina,2010,Latin America & Caribbean,Upper middle income,-3.5289811354370104,-0.942014731680686,2
+Argentina,2011,Latin America & Caribbean,Upper middle income,-3.23398409772065,-1.1572752526363277,0
+Argentina,2012,Latin America & Caribbean,Upper middle income,-3.042457151111733,-1.2552169250067693,0
+Argentina,2013,Latin America & Caribbean,Upper middle income,-2.9231838230316,-1.3087831798971803,0
+Argentina,2014,Latin America & Caribbean,Upper middle income,-2.869452147515801,-1.24320590743338,0
+Argentina,2015,Latin America & Caribbean,Upper middle income,-2.6354697440683683,-1.2883151267267643,0
+Argentina,2016,Latin America & Caribbean,Upper middle income,-2.363899762080918,-1.2228058121000127,0
+Argentina,2017,Latin America & Caribbean,Upper middle income,-2.116319944318012,-1.175303901557924,0
+Argentina,2018,Latin America & Caribbean,Upper middle income,-1.809042899373013,-0.86367487018763,0
+Argentina,2019,Latin America & Caribbean,Upper middle income,-1.8464419395893596,-0.8055378573245758,0
+Argentina,2020,Latin America & Caribbean,Upper middle income,-1.4283430981881091,-0.6752377745395496,0
+Argentina,2021,Latin America & Caribbean,Upper middle income,-1.45795486657835,-1.071797642932305,0
+Argentina,2022,Latin America & Caribbean,Upper middle income,-1.4624093196171706,-1.1765461541004978,0
+Argentina,2023,Latin America & Caribbean,Upper middle income,-1.3762793784238072,-1.246699866237212,0
+Argentina,2024,Latin America & Caribbean,Upper middle income,-1.1037691164804655,-0.8729770094667808,0
+Australia,2010,East Asia & Pacific,High income,0.2937593329603726,-1.5604808959996412,0
+Australia,2011,East Asia & Pacific,High income,0.7441450740677658,-1.3059671984089802,3
+Australia,2012,East Asia & Pacific,High income,0.8593753288739181,-1.1727051740657368,3
+Australia,2013,East Asia & Pacific,High income,0.9764103621516782,-1.1894510103365763,3
+Australia,2014,East Asia & Pacific,High income,0.9903712154214416,-1.106650742884633,3
+Australia,2015,East Asia & Pacific,High income,1.0802837991001353,-0.9526425934905972,3
+Australia,2016,East Asia & Pacific,High income,1.3676747666396256,-0.8538334311811085,3
+Australia,2017,East Asia & Pacific,High income,1.2396527147396663,-0.7723278057181501,3
+Australia,2018,East Asia & Pacific,High income,1.685906034882989,-0.5158095809210785,3
+Australia,2019,East Asia & Pacific,High income,1.772837809520881,-0.6708774078328463,3
+Australia,2020,East Asia & Pacific,High income,1.6356146291144198,-0.7894203569548291,3
+Australia,2021,East Asia & Pacific,High income,2.141397978916066,-0.6874342433297278,3
+Australia,2022,East Asia & Pacific,High income,2.1801768016106746,-0.5530414229844405,3
+Australia,2023,East Asia & Pacific,High income,2.245256699656884,-0.4282702956608096,3
+Australia,2024,East Asia & Pacific,High income,2.1132738757864664,-0.4881942880722928,3
+Brazil,2010,Latin America & Caribbean,Upper middle income,-3.06611735951386,0.6669272290723373,2
+Brazil,2011,Latin America & Caribbean,Upper middle income,-2.7560765330435797,0.5293042978251051,2
+Brazil,2012,Latin America & Caribbean,Upper middle income,-2.529290491981832,0.6401739883945188,2
+Brazil,2013,Latin America & Caribbean,Upper middle income,-2.3991412404032424,0.5495054837770084,2
+Brazil,2014,Latin America & Caribbean,Upper middle income,-2.181253701878756,0.6043678898108193,2
+Brazil,2015,Latin America & Caribbean,Upper middle income,-2.0022807239899545,1.0011816472839816,2
+Brazil,2016,Latin America & Caribbean,Upper middle income,-1.9614955567641892,0.9942826885957418,2
+Brazil,2017,Latin America & Caribbean,Upper middle income,-1.8635197261546683,0.930395861157545,2
+Brazil,2018,Latin America & Caribbean,Upper middle income,-1.5739634812185648,1.0583663570036013,2
+Brazil,2019,Latin America & Caribbean,Upper middle income,-1.18363611015014,1.402853707067577,2
+Brazil,2020,Latin America & Caribbean,Upper middle income,-0.9625869320470052,1.5549234242748864,2
+Brazil,2021,Latin America & Caribbean,Upper middle income,-0.827660959375481,1.5901877516366114,2
+Brazil,2022,Latin America & Caribbean,Upper middle income,-0.6486387979374806,1.5402350424057354,0
+Brazil,2023,Latin America & Caribbean,Upper middle income,-0.4495124141561626,1.6003869738981256,0
+Brazil,2024,Latin America & Caribbean,Upper middle income,-0.6174176980526827,1.477335222632013,0
+Canada,2010,North America,High income,0.3339172966763783,-0.2732924276293285,3
+Canada,2011,North America,High income,0.5052323639075512,-0.3331418354911413,3
+Canada,2012,North America,High income,0.6427517759168128,-0.1407644717848716,3
+Canada,2013,North America,High income,0.7038671559782238,-0.2043002521804589,3
+Canada,2014,North America,High income,0.6985992598791949,-0.2773651995834635,3
+Canada,2015,North America,High income,0.6250705850354484,-0.3271807173209582,3
+Canada,2016,North America,High income,0.4000983874666977,-0.7241925662236851,0
+Canada,2017,North America,High income,1.018963119560797,-0.1439616417502893,3
+Canada,2018,North America,High income,1.2377730395342703,-0.1345467447059032,3
+Canada,2019,North America,High income,1.4377085820491495,-0.0206832949467977,3
+Canada,2020,North America,High income,1.78471983050413,0.2991693885787114,3
+Canada,2021,North America,High income,1.9288434289379544,0.0838244965130098,3
+Canada,2022,North America,High income,1.9603291057388816,0.136435063515265,3
+Canada,2023,North America,High income,1.808124027404019,0.0395608614039536,3
+Canada,2024,North America,High income,1.7787765256868595,-0.0393233958358519,3
+Chile,2010,Latin America & Caribbean,High income,-3.9530089503748354,-0.8103720997305564,2
+Chile,2011,Latin America & Caribbean,High income,-3.658455448688168,-1.106672443695094,2
+Chile,2012,Latin America & Caribbean,High income,-3.43421019773535,-1.2561085160036574,2
+Chile,2013,Latin America & Caribbean,High income,-3.26870450405654,-1.3089017087004444,0
+Chile,2014,Latin America & Caribbean,High income,-3.164161298500207,-1.3122914919868638,0
+Chile,2015,Latin America & Caribbean,High income,-2.8354706492348796,-1.4425842416092949,0
+Chile,2016,Latin America & Caribbean,High income,-2.4208958502328604,-1.4221510499143133,0
+Chile,2017,Latin America & Caribbean,High income,-2.2386001986067847,-1.2257342478282605,0
+Chile,2018,Latin America & Caribbean,High income,-1.8800672780885583,-1.2742004319606732,0
+Chile,2019,Latin America & Caribbean,High income,-1.6510400993183518,-1.076665132606643,0
+Chile,2020,Latin America & Caribbean,High income,-1.445872317806865,-0.9734119409751149,0
+Chile,2021,Latin America & Caribbean,High income,-1.330734510025276,-1.2531003586424103,0
+Chile,2022,Latin America & Caribbean,High income,-1.7847190534644444,-1.5633577280528808,0
+Chile,2023,Latin America & Caribbean,High income,-1.6063749098196234,-1.6330570431574536,0
+Chile,2024,Latin America & Caribbean,High income,-1.6747464273380568,-1.64824483433289,0
+China,2010,East Asia & Pacific,Upper middle income,-2.2642621857342142,4.501232985251774,2
+China,2011,East Asia & Pacific,Upper middle income,-1.6929013190515725,4.734546760494567,2
+China,2012,East Asia & Pacific,Upper middle income,-1.310957127003674,4.670939788950725,1
+China,2013,East Asia & Pacific,Upper middle income,-0.8591587443173444,4.709841981915778,1
+China,2014,East Asia & Pacific,Upper middle income,-0.5425464762773138,4.629142059981791,1
+China,2015,East Asia & Pacific,Upper middle income,-0.3467360886942511,4.755633012857451,1
+China,2016,East Asia & Pacific,Upper middle income,0.5879141422432329,5.58891564846621,1
+China,2017,East Asia & Pacific,Upper middle income,1.1717245287121465,6.07015413744939,1
+China,2018,East Asia & Pacific,Upper middle income,1.5558379090318857,6.120066913286805,1
+China,2019,East Asia & Pacific,Upper middle income,2.1054637382852346,6.413103324572766,1
+China,2020,East Asia & Pacific,Upper middle income,2.247904988437863,6.445898380238405,1
+China,2021,East Asia & Pacific,Upper middle income,2.7903455766803815,6.7081537113661645,1
+China,2022,East Asia & Pacific,Upper middle income,2.643386271714873,6.711468412823802,1
+China,2023,East Asia & Pacific,Upper middle income,2.82867718808306,6.529612815111964,1
+China,2024,East Asia & Pacific,Upper middle income,2.6697954561327735,6.319781321426279,1
+Finland,2010,Europe & Central Asia,High income,1.5522211249482762,-2.476290283228999,3
+Finland,2011,Europe & Central Asia,High income,1.4545598451743476,-2.684739532328279,3
+Finland,2012,Europe & Central Asia,High income,1.3466414824955906,-2.797082274647601,3
+Finland,2013,Europe & Central Asia,High income,1.3965676757172043,-2.198286004205974,3
+Finland,2014,Europe & Central Asia,High income,1.291998200557324,-2.1512449997541454,3
+Finland,2015,Europe & Central Asia,High income,1.2544714466567717,-1.893257452063302,3
+Finland,2016,Europe & Central Asia,High income,1.453330065106132,-1.614604656014219,3
+Finland,2017,Europe & Central Asia,High income,1.668153498784226,-1.5515988501639943,3
+Finland,2018,Europe & Central Asia,High income,1.7440415347470837,-1.8118959958744731,3
+Finland,2019,Europe & Central Asia,High income,2.1100706132614477,-1.5979284236882436,3
+Finland,2020,Europe & Central Asia,High income,2.6673587435360377,-1.361352295766297,3
+Finland,2021,Europe & Central Asia,High income,2.803869495517772,-1.539113179021705,3
+Finland,2022,Europe & Central Asia,High income,3.351358676960453,-0.9331165746713596,3
+Finland,2023,Europe & Central Asia,High income,3.342452242779175,-0.9790111823189196,3
+Finland,2024,Europe & Central Asia,High income,3.666520578216282,-0.8058819397534823,3
+France,2010,Europe & Central Asia,High income,0.4402592857913063,0.5564211847629943,3
+France,2011,Europe & Central Asia,High income,0.4050051345392383,0.4969642096287309,3
+France,2012,Europe & Central Asia,High income,0.8286275399516879,0.5856162269432624,3
+France,2013,Europe & Central Asia,High income,0.8395573079801268,0.5748126920814024,3
+France,2014,Europe & Central Asia,High income,1.0276865348408744,0.6018329847601623,3
+France,2015,Europe & Central Asia,High income,1.0477441134032066,0.8284177717805712,3
+France,2016,Europe & Central Asia,High income,1.4706678137747564,0.9145005134346976,3
+France,2017,Europe & Central Asia,High income,1.5860743643930826,0.8855079599095017,3
+France,2018,Europe & Central Asia,High income,1.8818463004297703,0.9151629098458598,3
+France,2019,Europe & Central Asia,High income,2.268318000409607,1.132049490688253,3
+France,2020,Europe & Central Asia,High income,2.0860181418221333,0.9859836899263398,3
+France,2021,Europe & Central Asia,High income,2.305171259061334,0.9513212590963268,3
+France,2022,Europe & Central Asia,High income,2.483203911777256,1.167813795203119,3
+France,2023,Europe & Central Asia,High income,2.4482551094930924,1.130303174665932,3
+France,2024,Europe & Central Asia,High income,2.674215244813655,1.2542086626671134,3
+Germany,2010,Europe & Central Asia,High income,0.6382141194837564,0.5789873467622538,3
+Germany,2011,Europe & Central Asia,High income,0.8193925769518086,0.6277194672064499,3
+Germany,2012,Europe & Central Asia,High income,0.9896164938105538,0.7381327568478632,3
+Germany,2013,Europe & Central Asia,High income,1.2468731032236826,0.7147141594907573,3
+Germany,2014,Europe & Central Asia,High income,1.29308888996879,0.6844418174329362,3
+Germany,2015,Europe & Central Asia,High income,1.8093890184750927,1.0634980372961242,3
+Germany,2016,Europe & Central Asia,High income,1.9931396051805013,1.0982620392906932,3
+Germany,2017,Europe & Central Asia,High income,2.30568709718098,1.1200028957563648,3
+Germany,2018,Europe & Central Asia,High income,2.046123304570727,0.8769435379508309,3
+Germany,2019,Europe & Central Asia,High income,2.7626062888452285,1.1039351156929498,3
+Germany,2020,Europe & Central Asia,High income,2.8636140839781725,1.1698603654602862,3
+Germany,2021,Europe & Central Asia,High income,3.2833314520760735,1.3434404646071596,3
+Germany,2022,Europe & Central Asia,High income,3.06741147068632,1.2733060558576186,3
+Germany,2023,Europe & Central Asia,High income,3.4385635750117394,1.4780420002506849,3
+Germany,2024,Europe & Central Asia,High income,3.393605209687519,1.402760216651802,3
+India,2010,South Asia,Lower middle income,-5.210206403470036,3.603325557792109,2
+India,2011,South Asia,Lower middle income,-5.173669513069896,3.256760969882978,2
+India,2012,South Asia,Lower middle income,-4.795833791283185,3.730066050746533,2
+India,2013,South Asia,Lower middle income,-4.440278197062382,4.015536364262631,2
+India,2014,South Asia,Lower middle income,-4.305465542067414,3.978756003806562,2
+India,2015,South Asia,Lower middle income,-3.937229928492809,4.2577335936595695,2
+India,2016,South Asia,Lower middle income,-3.923215347421192,4.108793654332331,2
+India,2017,South Asia,Lower middle income,-3.6975426645256384,3.9720494280143384,2
+India,2018,South Asia,Lower middle income,-3.4787644858242492,4.077100245801844,2
+India,2019,South Asia,Lower middle income,-3.0170736173339634,4.001775346935205,2
+India,2020,South Asia,Lower middle income,-2.763003574448222,3.9159455805418895,2
+India,2021,South Asia,Lower middle income,-2.251981484190343,4.071651047413293,2
+India,2022,South Asia,Lower middle income,-2.282015924697271,3.917091619867626,2
+India,2023,South Asia,Lower middle income,-1.7276364073598116,4.243533595558569,2
+India,2024,South Asia,Lower middle income,-1.5650312906808634,4.290945914476588,2
+Indonesia,2010,East Asia & Pacific,Upper middle income,-6.142407210855812,1.327088672045589,2
+Indonesia,2011,East Asia & Pacific,Upper middle income,-5.9078139001871754,1.2700463990947972,2
+Indonesia,2012,East Asia & Pacific,Upper middle income,-5.723894280526297,1.1575933989737386,2
+Indonesia,2013,East Asia & Pacific,Upper middle income,-5.654180684780658,1.0977242319791607,2
+Indonesia,2014,East Asia & Pacific,Upper middle income,-5.535340982994611,1.143774266824154,2
+Indonesia,2015,East Asia & Pacific,Upper middle income,-5.362349470120905,1.17013628520194,2
+Indonesia,2016,East Asia & Pacific,Upper middle income,-4.850352968668971,1.329323037459914,2
+Indonesia,2017,East Asia & Pacific,Upper middle income,-4.468776402581987,1.2345437634684526,2
+Indonesia,2018,East Asia & Pacific,Upper middle income,-4.307173621801406,1.660266161378665,2
+Indonesia,2019,East Asia & Pacific,Upper middle income,-4.038419404457551,1.5063728121393567,2
+Indonesia,2020,East Asia & Pacific,Upper middle income,-3.647022345464967,1.521301850619966,2
+Indonesia,2021,East Asia & Pacific,Upper middle income,-3.5221080632222814,1.217368895564207,2
+Indonesia,2022,East Asia & Pacific,Upper middle income,-3.407298272310165,1.1068079947122602,2
+Indonesia,2023,East Asia & Pacific,Upper middle income,-3.303127405618637,1.0171510742884269,2
+Indonesia,2024,East Asia & Pacific,Upper middle income,-3.2276620292923313,0.988510917195198,2
+Ireland,2010,Europe & Central Asia,High income,-0.6664885329997088,-0.8726540064710905,0
+Ireland,2011,Europe & Central Asia,High income,-0.3742878639548465,-1.0355945440021237,0
+Ireland,2012,Europe & Central Asia,High income,0.2903310739602161,-0.7668181627746923,0
+Ireland,2013,Europe & Central Asia,High income,-0.1022198997089709,-1.37612260651924,0
+Ireland,2014,Europe & Central Asia,High income,0.2139648164663702,-1.2906751764475932,0
+Ireland,2015,Europe & Central Asia,High income,0.1265992137199781,-1.5427942007101811,0
+Ireland,2016,Europe & Central Asia,High income,0.7314805482908083,-0.917027578330504,3
+Ireland,2017,Europe & Central Asia,High income,0.8359350821130274,-0.9257880047388664,3
+Ireland,2018,Europe & Central Asia,High income,1.6741885548170057,-0.1883518126735605,3
+Ireland,2019,Europe & Central Asia,High income,2.017019967831173,0.0514759432652483,3
+Ireland,2020,Europe & Central Asia,High income,2.099837278997863,-0.0287387684645977,3
+Ireland,2021,Europe & Central Asia,High income,2.6084686726953925,-0.0734933908210301,3
+Ireland,2022,Europe & Central Asia,High income,2.428647286138888,-0.6515219690268722,3
+Ireland,2023,Europe & Central Asia,High income,2.801437406282046,-0.3433140245527833,3
+Ireland,2024,Europe & Central Asia,High income,2.7702766987821343,-0.4960524289146903,3
+Israel,2010,Middle East & North Africa,High income,-0.7658099799768954,-1.100126888753478,0
+Israel,2011,Middle East & North Africa,High income,-0.6118642978182899,-1.1510385526375446,0
+Israel,2012,Middle East & North Africa,High income,-0.3720022899397909,-1.0506260953379878,0
+Israel,2013,Middle East & North Africa,High income,-0.4850891288101728,-1.1362389577303982,0
+Israel,2014,Middle East & North Africa,High income,-0.2745157049652104,-1.1255536305325942,0
+Israel,2015,Middle East & North Africa,High income,-0.1782996969124445,-1.3290184752376315,0
+Israel,2016,Middle East & North Africa,High income,-0.1161035715565864,-1.5132032522245047,0
+Israel,2017,Middle East & North Africa,High income,0.0073955143814531,-1.4640573279059852,0
+Israel,2018,Middle East & North Africa,High income,0.1885459536445752,-1.4290175145951485,0
+Israel,2019,Middle East & North Africa,High income,0.4594130070588538,-1.5364876935037226,0
+Israel,2020,Middle East & North Africa,High income,0.918305011115957,-1.5359325927297554,3
+Israel,2021,Middle East & North Africa,High income,0.9978806177781134,-1.6376935057028132,3
+Israel,2022,Middle East & North Africa,High income,1.070560707490143,-1.804224754137658,3
+Israel,2023,Middle East & North Africa,High income,1.17319503524653,-1.6812640098131415,3
+Israel,2024,Middle East & North Africa,High income,1.279077422015285,-1.6894347048632423,3
+Italy,2010,Europe & Central Asia,High income,-1.579520331202849,-0.3877953519503919,0
+Italy,2011,Europe & Central Asia,High income,-1.5476890418453635,-0.5102614496683178,0
+Italy,2012,Europe & Central Asia,High income,-1.2790654432446822,-0.1532776453706117,0
+Italy,2013,Europe & Central Asia,High income,-1.2678674997855888,-0.2052990997834218,0
+Italy,2014,Europe & Central Asia,High income,-1.2211799225049031,0.036637260100153,0
+Italy,2015,Europe & Central Asia,High income,-1.2089090918687082,0.0520639069973564,0
+Italy,2016,Europe & Central Asia,High income,-0.9572006891503484,0.1731143561584599,0
+Italy,2017,Europe & Central Asia,High income,-0.4898828348406279,0.4045188915845341,0
+Italy,2018,Europe & Central Asia,High income,-0.0248690349914072,0.3386086129847732,0
+Italy,2019,Europe & Central Asia,High income,-0.0511568324187175,0.5189927931409198,0
+Italy,2020,Europe & Central Asia,High income,0.5732355471592927,0.9751188736523196,3
+Italy,2021,Europe & Central Asia,High income,0.7097246083408151,0.7759083417781397,3
+Italy,2022,Europe & Central Asia,High income,0.9895920400901692,0.6866425088265325,3
+Italy,2023,Europe & Central Asia,High income,1.3031746410876488,0.8728954113233381,3
+Italy,2024,Europe & Central Asia,High income,0.952316805703999,0.6835747320702976,3
+Japan,2010,East Asia & Pacific,High income,0.895045119402472,0.6359253153504573,3
+Japan,2011,East Asia & Pacific,High income,1.2951637805610614,0.8996448558170976,3
+Japan,2012,East Asia & Pacific,High income,1.743080949841227,1.1892989385644013,3
+Japan,2013,East Asia & Pacific,High income,1.6073393303958825,0.9054190441392986,3
+Japan,2014,East Asia & Pacific,High income,1.8586922652839504,0.8601818379632972,3
+Japan,2015,East Asia & Pacific,High income,1.8921486473730773,0.9909734720228724,3
+Japan,2016,East Asia & Pacific,High income,2.274569631775639,1.0683411198269428,3
+Japan,2017,East Asia & Pacific,High income,2.32512194910376,1.088050781024346,3
+Japan,2018,East Asia & Pacific,High income,2.4565991508698244,1.1930422012455095,3
+Japan,2019,East Asia & Pacific,High income,2.542990652947622,1.01239324033431,3
+Japan,2020,East Asia & Pacific,High income,3.207664498229367,1.4155274807660547,3
+Japan,2021,East Asia & Pacific,High income,3.3045382422100142,1.48108861382032,3
+Japan,2022,East Asia & Pacific,High income,3.0167733436901925,1.1795991433382411,3
+Japan,2023,East Asia & Pacific,High income,3.1243470810605425,1.123686706222058,3
+Japan,2024,East Asia & Pacific,High income,2.936092626259741,1.0461475499283623,3
+Mexico,2010,Latin America & Caribbean,Upper middle income,-4.417058996188477,0.6642377860606934,2
+Mexico,2011,Latin America & Caribbean,Upper middle income,-4.20424852383454,0.5688878445131594,2
+Mexico,2012,Latin America & Caribbean,Upper middle income,-4.1174626941515164,0.480802235201692,2
+Mexico,2013,Latin America & Caribbean,Upper middle income,-3.98889290321572,0.4787858097909879,2
+Mexico,2014,Latin America & Caribbean,Upper middle income,-3.940450758152206,0.44681272950262,2
+Mexico,2015,Latin America & Caribbean,Upper middle income,-3.5418344869376206,0.5740754494667597,2
+Mexico,2016,Latin America & Caribbean,Upper middle income,-3.5448066090708816,0.3404298048902234,2
+Mexico,2017,Latin America & Caribbean,Upper middle income,-3.5899951774510743,0.4121091603780606,2
+Mexico,2018,Latin America & Caribbean,Upper middle income,-3.406439376119118,0.2795998823201355,2
+Mexico,2019,Latin America & Caribbean,Upper middle income,-3.200939269507833,0.0965863631898425,2
+Mexico,2020,Latin America & Caribbean,Upper middle income,-3.1196002426552862,0.156601280937136,2
+Mexico,2021,Latin America & Caribbean,Upper middle income,-3.0521813104407443,0.0058011255513519,2
+Mexico,2022,Latin America & Caribbean,Upper middle income,-2.9606775386311717,-0.1645986261015864,2
+Mexico,2023,Latin America & Caribbean,Upper middle income,-2.836712081744872,-0.3455796722219269,2
+Mexico,2024,Latin America & Caribbean,Upper middle income,-2.7634330790629034,-0.3307234008809974,2
+Netherlands,2010,Europe & Central Asia,High income,0.2219762889395254,-0.7728875089313977,0
+Netherlands,2011,Europe & Central Asia,High income,0.3273265858214067,-1.1615798116340097,0
+Netherlands,2012,Europe & Central Asia,High income,0.3364999180901539,-1.3849789937715675,0
+Netherlands,2013,Europe & Central Asia,High income,0.93619547627903,-0.9862164632203838,3
+Netherlands,2014,Europe & Central Asia,High income,0.9831184331149576,-0.7810574235345047,3
+Netherlands,2015,Europe & Central Asia,High income,0.9700225649465162,-0.889657899879782,3
+Netherlands,2016,Europe & Central Asia,High income,1.1136192941358127,-0.7462069488989728,3
+Netherlands,2017,Europe & Central Asia,High income,1.423486207503333,-0.6966299422706473,3
+Netherlands,2018,Europe & Central Asia,High income,1.9515332672719672,-0.2917825749374557,3
+Netherlands,2019,Europe & Central Asia,High income,2.301390409385518,-0.0933498398489203,3
+Netherlands,2020,Europe & Central Asia,High income,2.3285243445664885,-0.0714081675487854,3
+Netherlands,2021,Europe & Central Asia,High income,2.3779213313156053,-0.2077396754247857,3
+Netherlands,2022,Europe & Central Asia,High income,2.143106924611732,-0.4131290876425666,3
+Netherlands,2023,Europe & Central Asia,High income,2.724972356339746,-0.1320388997948086,3
+Netherlands,2024,Europe & Central Asia,High income,2.521402836739214,-0.234972363628247,3
+New Zealand,2010,East Asia & Pacific,High income,-0.786556409890347,-1.3543527011178405,0
+New Zealand,2011,East Asia & Pacific,High income,-1.091852799874594,-1.9128245689814931,0
+New Zealand,2012,East Asia & Pacific,High income,-1.0041152274521,-1.9194459782742033,0
+New Zealand,2013,East Asia & Pacific,High income,-0.7986642364006998,-1.8557165020877129,0
+New Zealand,2014,East Asia & Pacific,High income,-0.8118396474311995,-2.0467598200085675,0
+New Zealand,2015,East Asia & Pacific,High income,-0.6930632252091558,-2.1369753275185146,0
+New Zealand,2016,East Asia & Pacific,High income,-0.4091167252925556,-1.9196189702348856,0
+New Zealand,2017,East Asia & Pacific,High income,-0.3330819754784071,-1.9237797588357592,0
+New Zealand,2018,East Asia & Pacific,High income,-0.0717622935016297,-1.8113143123490767,0
+New Zealand,2019,East Asia & Pacific,High income,-0.1336380308315304,-1.93121058168675,0
+New Zealand,2020,East Asia & Pacific,High income,-0.101010133018444,-1.9646968890787893,0
+New Zealand,2021,East Asia & Pacific,High income,-0.0576277849667331,-2.046083708335463,0
+New Zealand,2022,East Asia & Pacific,High income,-0.0994672775737235,-2.0293494791345954,0
+New Zealand,2023,East Asia & Pacific,High income,0.1400463865822604,-1.96788835425574,0
+New Zealand,2024,East Asia & Pacific,High income,-0.2335037545565098,-2.18230151263976,0
+Poland,2010,Europe & Central Asia,High income,-2.192357686348651,-0.2621216043814821,0
+Poland,2011,Europe & Central Asia,High income,-2.131199879654175,-0.3640873966830212,0
+Poland,2012,Europe & Central Asia,High income,-1.8220125081827336,-0.2412325634547276,0
+Poland,2013,Europe & Central Asia,High income,-1.9609794586326292,-0.4873821896188365,0
+Poland,2014,Europe & Central Asia,High income,-1.8389735416645352,-0.4988963312819524,0
+Poland,2015,Europe & Central Asia,High income,-1.4069216949070438,0.04962210860607,0
+Poland,2016,Europe & Central Asia,High income,-0.9817754470498902,0.1707060699725254,0
+Poland,2017,Europe & Central Asia,High income,-0.8158852068183754,0.0780518028853988,0
+Poland,2018,Europe & Central Asia,High income,-0.6681203587677248,0.0180684212347731,0
+Poland,2019,Europe & Central Asia,High income,-0.548034620073029,-0.2578268040021943,0
+Poland,2020,Europe & Central Asia,High income,-0.3140315980205815,-0.2770901491074061,0
+Poland,2021,Europe & Central Asia,High income,0.3993433167446757,0.0786585878491656,3
+Poland,2022,Europe & Central Asia,High income,0.3319398363781061,-0.0931692778282738,3
+Poland,2023,Europe & Central Asia,High income,0.5260013777347439,-0.099092644146918,3
+Poland,2024,Europe & Central Asia,High income,1.0794303797873213,0.3074131079631033,3
+Saudi Arabia,2010,Middle East & North Africa,High income,-3.3368951735084456,-1.416019462438829,0
+Saudi Arabia,2011,Middle East & North Africa,High income,-3.0579244912968755,-1.5193716936421051,0
+Saudi Arabia,2012,Middle East & North Africa,High income,-2.7724275238157885,-1.603673466314929,0
+Saudi Arabia,2013,Middle East & North Africa,High income,-2.457021241014685,-1.4557973179940666,0
+Saudi Arabia,2014,Middle East & North Africa,High income,-2.2038370140009804,-1.4070525136621013,0
+Saudi Arabia,2015,Middle East & North Africa,High income,-1.8354428579202369,-1.0088107298325055,0
+Saudi Arabia,2016,Middle East & North Africa,High income,-1.7671680842114217,-0.98925243904973,0
+Saudi Arabia,2017,Middle East & North Africa,High income,-1.293320250471692,-0.9205428192625276,0
+Saudi Arabia,2018,Middle East & North Africa,High income,-1.2015602862520072,-1.1365782330630492,0
+Saudi Arabia,2019,Middle East & North Africa,High income,-0.7323172634754384,-0.9903608689797604,0
+Saudi Arabia,2020,Middle East & North Africa,High income,-0.598594081652604,-0.7775942895694844,0
+Saudi Arabia,2021,Middle East & North Africa,High income,-0.1128494777672738,-0.5768097721969293,0
+Saudi Arabia,2022,Middle East & North Africa,High income,-0.1064735982583608,-0.5770636287323586,0
+Saudi Arabia,2023,Middle East & North Africa,High income,0.2885722055573079,-0.6000330754634166,0
+Saudi Arabia,2024,Middle East & North Africa,High income,0.5927480677556367,-0.4312491376367199,3
+Singapore,2010,East Asia & Pacific,High income,0.367584603013693,-2.4237161648485315,0
+Singapore,2011,East Asia & Pacific,High income,0.5894074503894379,-2.397277764939901,0
+Singapore,2012,East Asia & Pacific,High income,0.6623054086328057,-2.5290710129561575,0
+Singapore,2013,East Asia & Pacific,High income,0.7467662611865161,-2.8216101369892015,0
+Singapore,2014,East Asia & Pacific,High income,0.722907458500186,-2.6880042823090715,0
+Singapore,2015,East Asia & Pacific,High income,0.8508627654647183,-2.633696505384375,0
+Singapore,2016,East Asia & Pacific,High income,1.314596940699688,-2.258078556996367,3
+Singapore,2017,East Asia & Pacific,High income,1.8668961747729964,-1.9296661215679496,3
+Singapore,2018,East Asia & Pacific,High income,2.21222655418701,-1.8391685300276095,3
+Singapore,2019,East Asia & Pacific,High income,2.592476208052783,-1.6558392425548183,3
+Singapore,2020,East Asia & Pacific,High income,2.8569301429019744,-1.5736171560198366,3
+Singapore,2021,East Asia & Pacific,High income,3.1450953731723006,-1.8950467574653007,3
+Singapore,2022,East Asia & Pacific,High income,3.063707340620643,-2.1759564849676116,3
+Singapore,2023,East Asia & Pacific,High income,3.3473727148876513,-1.9199565177493771,3
+Singapore,2024,East Asia & Pacific,High income,3.229323347803801,-2.0432839757230226,3
+South Africa,2010,Sub-Saharan Africa,Upper middle income,-4.360271943904393,0.4706136554153806,2
+South Africa,2011,Sub-Saharan Africa,Upper middle income,-4.18995124635337,-0.0396146651151789,2
+South Africa,2012,Sub-Saharan Africa,Upper middle income,-3.888173154658128,0.0752983500109528,2
+South Africa,2013,Sub-Saharan Africa,Upper middle income,-3.925728893452016,-0.281720842885811,2
+South Africa,2014,Sub-Saharan Africa,Upper middle income,-3.870426553633521,-0.2880486053921202,2
+South Africa,2015,Sub-Saharan Africa,Upper middle income,-3.7884669653546985,-0.4292790527542309,2
+South Africa,2016,Sub-Saharan Africa,Upper middle income,-3.260551667698076,0.1930983548792131,2
+South Africa,2017,Sub-Saharan Africa,Upper middle income,-3.011619099895493,0.0944811716178985,2
+South Africa,2018,Sub-Saharan Africa,Upper middle income,-2.873514300513749,-0.0504647578993586,2
+South Africa,2019,Sub-Saharan Africa,Upper middle income,-2.375510124915455,0.2930641924595186,2
+South Africa,2020,Sub-Saharan Africa,Upper middle income,-2.7362175581232613,-0.1411386187950683,2
+South Africa,2021,Sub-Saharan Africa,Upper middle income,-2.691929737166942,-0.3705519225354307,2
+South Africa,2022,Sub-Saharan Africa,Upper middle income,-2.8013989916666904,-0.3775328855910944,2
+South Africa,2023,Sub-Saharan Africa,Upper middle income,-2.854865120593479,-0.4368245215398805,2
+South Africa,2024,Sub-Saharan Africa,Upper middle income,-2.8086577044935885,-0.4567538131566723,2
+South Korea,2010,East Asia & Pacific,High income,0.6942894645800213,-1.1910377649228288,3
+South Korea,2011,East Asia & Pacific,High income,1.1379885218525003,-0.9746757975402528,3
+South Korea,2012,East Asia & Pacific,High income,1.2763577195879805,-1.032851896333406,3
+South Korea,2013,East Asia & Pacific,High income,1.482848624702379,-0.9047209154095408,3
+South Korea,2014,East Asia & Pacific,High income,1.8483505068569208,-0.7612895958410397,3
+South Korea,2015,East Asia & Pacific,High income,1.9637018030393267,-0.7668929816598558,3
+South Korea,2016,East Asia & Pacific,High income,2.159801521548779,-0.776339830032471,3
+South Korea,2017,East Asia & Pacific,High income,2.8273757753575044,-0.6094478149206508,3
+South Korea,2018,East Asia & Pacific,High income,3.375600827795233,-0.4741049522808702,3
+South Korea,2019,East Asia & Pacific,High income,3.3954355772644873,-0.5382066088317118,3
+South Korea,2020,East Asia & Pacific,High income,3.236533815271212,-0.8357426966537665,3
+South Korea,2021,East Asia & Pacific,High income,3.9230200865353377,-0.6158558458575843,3
+South Korea,2022,East Asia & Pacific,High income,3.9057190410577394,-0.7684956078455369,3
+South Korea,2023,East Asia & Pacific,High income,4.285992479284472,-0.6599116237203999,3
+South Korea,2024,East Asia & Pacific,High income,4.698535359228841,-0.4039652494357703,3
+Spain,2010,Europe & Central Asia,High income,-1.392085588154048,-0.2993671491651984,0
+Spain,2011,Europe & Central Asia,High income,-1.3578891592742508,-0.3868477053638171,0
+Spain,2012,Europe & Central Asia,High income,-1.184216050226993,-0.2101173764949648,0
+Spain,2013,Europe & Central Asia,High income,-1.1034953068575242,-0.2164848666345485,0
+Spain,2014,Europe & Central Asia,High income,-1.0103230731421802,-0.3419666577144959,0
+Spain,2015,Europe & Central Asia,High income,-0.6451735009500171,-0.1682911619299534,0
+Spain,2016,Europe & Central Asia,High income,-0.6037356852445802,-0.3624958973535474,0
+Spain,2017,Europe & Central Asia,High income,-0.4179054905513668,-0.3451319088212538,0
+Spain,2018,Europe & Central Asia,High income,-0.0458713527650474,-0.2421785396361902,0
+Spain,2019,Europe & Central Asia,High income,0.0832659486254007,-0.2497614293205487,0
+Spain,2020,Europe & Central Asia,High income,0.2788291674285886,-0.3042589522633792,0
+Spain,2021,Europe & Central Asia,High income,0.8181521357555186,-0.2430143603416746,3
+Spain,2022,Europe & Central Asia,High income,0.7646073738635434,-0.3742270834565661,3
+Spain,2023,Europe & Central Asia,High income,0.7464050064528849,-0.4623889431388311,3
+Spain,2024,Europe & Central Asia,High income,1.1205399747032587,0.0704048071830543,3
+Sweden,2010,Europe & Central Asia,High income,1.1152886604445718,-1.3937734238562596,3
+Sweden,2011,Europe & Central Asia,High income,1.1529484337640714,-1.4948504298199277,3
+Sweden,2012,Europe & Central Asia,High income,1.157896273447611,-1.4545980306816408,3
+Sweden,2013,Europe & Central Asia,High income,1.572562771938407,-1.411816047280782,3
+Sweden,2014,Europe & Central Asia,High income,1.3839448962903087,-1.552272774448949,3
+Sweden,2015,Europe & Central Asia,High income,1.77064847104947,-1.2334270226405186,3
+Sweden,2016,Europe & Central Asia,High income,1.8638015367588057,-1.1816578364073016,3
+Sweden,2017,Europe & Central Asia,High income,1.9665459537235015,-1.212480159218382,3
+Sweden,2018,Europe & Central Asia,High income,2.0762588506879163,-1.205729483781029,3
+Sweden,2019,Europe & Central Asia,High income,2.3640242566233973,-1.2628009334120238,3
+Sweden,2020,Europe & Central Asia,High income,2.3084509328207825,-1.349839399797861,3
+Sweden,2021,Europe & Central Asia,High income,2.8762885991207443,-1.213856187978019,3
+Sweden,2022,Europe & Central Asia,High income,2.8081637006848816,-1.3061755907052244,3
+Sweden,2023,Europe & Central Asia,High income,3.2347875803738564,-0.9947474245021318,3
+Sweden,2024,Europe & Central Asia,High income,3.343757610216412,-0.9070201815398709,3
+Switzerland,2010,Europe & Central Asia,High income,0.4108752590399666,-1.22093402096693,0
+Switzerland,2011,Europe & Central Asia,High income,0.5207168290482739,-1.2628805558345844,0
+Switzerland,2012,Europe & Central Asia,High income,0.4219736447452068,-1.4821781542508126,0
+Switzerland,2013,Europe & Central Asia,High income,0.8104703029272142,-1.2526580350376202,3
+Switzerland,2014,Europe & Central Asia,High income,1.14718064562831,-0.9091164302984888,3
+Switzerland,2015,Europe & Central Asia,High income,1.362560291279178,-0.908459662298058,3
+Switzerland,2016,Europe & Central Asia,High income,1.5489305501007682,-0.952730810347404,3
+Switzerland,2017,Europe & Central Asia,High income,1.5070717461757834,-0.7838482189377862,3
+Switzerland,2018,Europe & Central Asia,High income,1.5079941178691392,-0.8383033575198343,3
+Switzerland,2019,Europe & Central Asia,High income,1.6598233737156491,-0.7900107412245301,3
+Switzerland,2020,Europe & Central Asia,High income,1.920033266908738,-0.8355520464920413,3
+Switzerland,2021,Europe & Central Asia,High income,2.0971430378601936,-0.8188539549162476,3
+Switzerland,2022,Europe & Central Asia,High income,2.5093844622112154,-0.7804278927171289,3
+Switzerland,2023,Europe & Central Asia,High income,2.377535553113699,-0.9123206820187806,3
+Switzerland,2024,Europe & Central Asia,High income,2.8130502432905127,-0.5253477576675775,3
+Türkiye,2010,Europe & Central Asia,Upper middle income,-3.75718799096096,0.4455037283417568,2
+Türkiye,2011,Europe & Central Asia,Upper middle income,-3.507937966761939,0.2483814461491831,2
+Türkiye,2012,Europe & Central Asia,Upper middle income,-3.2518143416256566,0.1943266469619624,2
+Türkiye,2013,Europe & Central Asia,Upper middle income,-3.046359946143658,0.092504686690662,2
+Türkiye,2014,Europe & Central Asia,Upper middle income,-3.005635387506172,-0.0889457003285155,2
+Türkiye,2015,Europe & Central Asia,Upper middle income,-2.8447198890189256,-0.1813469280835827,2
+Türkiye,2016,Europe & Central Asia,Upper middle income,-2.290919567394689,-0.0965167950591807,2
+Türkiye,2017,Europe & Central Asia,Upper middle income,-1.836803314239778,-0.0767113041604581,0
+Türkiye,2018,Europe & Central Asia,Upper middle income,-1.6437753345775683,-0.1985139809111492,0
+Türkiye,2019,Europe & Central Asia,Upper middle income,-1.3428109539396365,-0.1569187418013817,0
+Türkiye,2020,Europe & Central Asia,Upper middle income,-1.0264806469461352,-0.132204003602353,0
+Türkiye,2021,Europe & Central Asia,Upper middle income,-0.8845327446868776,-0.4151980593685123,0
+Türkiye,2022,Europe & Central Asia,Upper middle income,-0.779284466851861,-0.5107701064825517,0
+Türkiye,2023,Europe & Central Asia,Upper middle income,-1.0713028094902624,-0.9140053463770204,0
+Türkiye,2024,Europe & Central Asia,Upper middle income,-0.3525136919659509,-0.3979087611301863,0
+United Arab Emirates,2010,Middle East & North Africa,High income,-2.3206639150533257,-2.3787527981178833,0
+United Arab Emirates,2011,Middle East & North Africa,High income,-2.039557017222484,-2.55163616001383,0
+United Arab Emirates,2012,Middle East & North Africa,High income,-1.640429947473854,-2.601301096621778,0
+United Arab Emirates,2013,Middle East & North Africa,High income,-1.6797446764280513,-3.027401123750525,0
+United Arab Emirates,2014,Middle East & North Africa,High income,-1.459537794397399,-3.041420084834535,0
+United Arab Emirates,2015,Middle East & North Africa,High income,-1.485392123774132,-2.984530112722719,0
+United Arab Emirates,2016,Middle East & North Africa,High income,-1.2700558811549063,-2.9960212083203257,0
+United Arab Emirates,2017,Middle East & North Africa,High income,-1.019612926060873,-2.910663480460703,0
+United Arab Emirates,2018,Middle East & North Africa,High income,-0.9610693312192368,-3.0092285273058965,0
+United Arab Emirates,2019,Middle East & North Africa,High income,-0.8077125383755873,-2.878449442880524,0
+United Arab Emirates,2020,Middle East & North Africa,High income,-0.4572812544510986,-2.157313551156399,0
+United Arab Emirates,2021,Middle East & North Africa,High income,-0.0684832888105406,-2.041310126912588,0
+United Arab Emirates,2022,Middle East & North Africa,High income,-0.0092034617939671,-2.2171604282888095,0
+United Arab Emirates,2023,Middle East & North Africa,High income,-0.2282345640830763,-2.4072845226605604,0
+United Arab Emirates,2024,Middle East & North Africa,High income,0.0259321168452463,-2.213787400669152,0
+United Kingdom,2010,Europe & Central Asia,High income,0.3192112314478388,0.4919302756363546,3
+United Kingdom,2011,Europe & Central Asia,High income,0.2840172208064375,0.4653530182679379,3
+United Kingdom,2012,Europe & Central Asia,High income,0.4741259668612014,0.5417858880952023,3
+United Kingdom,2013,Europe & Central Asia,High income,0.7808509236366932,0.7860623480095673,3
+United Kingdom,2014,Europe & Central Asia,High income,0.9321610669388336,0.7632735472159348,3
+United Kingdom,2015,Europe & Central Asia,High income,1.131096477276481,0.8828136059505223,3
+United Kingdom,2016,Europe & Central Asia,High income,0.9824108517078224,0.6304962601547557,3
+United Kingdom,2017,Europe & Central Asia,High income,1.5168749643093191,1.0937526747306092,3
+United Kingdom,2018,Europe & Central Asia,High income,2.021582079418574,1.3094566454128824,3
+United Kingdom,2019,Europe & Central Asia,High income,2.075831657964215,1.1957626771700651,3
+United Kingdom,2020,Europe & Central Asia,High income,1.9967760811937016,0.9676449334102962,3
+United Kingdom,2021,Europe & Central Asia,High income,2.114735861239596,0.8173529560338326,3
+United Kingdom,2022,Europe & Central Asia,High income,2.2349332424499644,0.8547564921588359,3
+United Kingdom,2023,Europe & Central Asia,High income,2.3499178913164815,0.9082671820275032,3
+United Kingdom,2024,Europe & Central Asia,High income,2.4838216688293504,0.9397949048526216,3
+United States,2010,North America,High income,2.343917384144797,2.54458690123178,1
+United States,2011,North America,High income,2.621267552039468,2.7515659387881737,1
+United States,2012,North America,High income,2.581513356263153,2.6753447218952875,1
+United States,2013,North America,High income,2.8174984092214133,2.895886014419113,1
+United States,2014,North America,High income,2.898562496200545,2.8393881830654033,1
+United States,2015,North America,High income,2.8942550861093137,2.805127201841207,1
+United States,2016,North America,High income,3.446542076015688,2.8253220734625915,1
+United States,2017,North America,High income,3.5545022404218214,2.9146835987726787,1
+United States,2018,North America,High income,4.164118905176642,3.150044183685236,1
+United States,2019,North America,High income,4.3713332547505654,3.205057289473561,1
+United States,2020,North America,High income,4.531807226388801,3.241309702823229,1
+United States,2021,North America,High income,4.684692269585491,3.2385322429359364,1
+United States,2022,North America,High income,4.75080913709753,3.237478978078009,1
+United States,2023,North America,High income,4.820990644717629,3.2455366346755032,1
+United States,2024,North America,High income,4.811451102047037,3.2168156359319013,1
